@@ -1,56 +1,19 @@
-[
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+[{
+        "name": "Jerome Mouton",
+        "designation": "CTO @ SnapEngage",
+        "twitter": "https://twitter.com/jlmouton",
+        "linkedin": "https://www.linkedin.com/in/jeromemouton/",
+        "github": "https://github.com/jlmouton",
+        "profileImage": "https://avatars.io/twitter/jlmouton",
+        "website": "https://snapengage.com/"
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name": "Manjula Dube",
+        "designation": "Web Engineer @ N26",
+        "twitter": "https://twitter.com/manjula_dube",
+        "linkedin": "https://www.linkedin.com/in/manjula-dube-9b5b3550/",
+        "github": "https://github.com/manjula91",
+        "profileImage": "https://avatars.io/twitter/manjula_dube",
+        "website": ""
     }
 ]
