@@ -64,7 +64,12 @@ export default {
     methods:{
         getImgUrl(pic) {
             if(pic.length>0){
-                return require('@/assets/img/team/'+pic)
+
+                if(pic.startsWith('https://')){
+                    return pic    
+                }else{
+                    return require('@/assets/img/team/'+pic)
+                }
             }else{
                 return require('@/assets/img/team/avatar.png')
             }
