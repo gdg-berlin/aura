@@ -33,6 +33,7 @@
       </v-layout>
     </v-container>
   
+    <!-- 
     <v-container fluid class="py-5" style="background-color:#F9F9F9">
       <v-layout wrap align-start justify-start row fill-height>
         <v-flex xs12 md10 offset-md1 offset-lg1 >
@@ -42,7 +43,8 @@
           <featureEvent />
         </v-flex>
       </v-layout>
-    </v-container>
+    </v-container> 
+    -->
     
      <!-- <v-container fluid >
       <v-layout wrap align-center justify-center row fill-height>
@@ -74,7 +76,7 @@
   import eventshowcase from '@/components/home/eventshowcase'
   // import wtmInfo from '@/components/home/wtmInfo'
   import partners from '@/components/home/partners'
-  import featureEvent from '@/components/home/featureEvent'
+  //import featureEvent from '@/components/home/featureEvent'
   
   export default {
     components: {
@@ -84,7 +86,7 @@
       eventshowcase,
       // wtmInfo,
       partners,
-      featureEvent
+      //featureEvent
     }
   }
 </script>
