@@ -4,6 +4,9 @@ node_modules
 tempKey.js
 src/config/
 
+# generated firebase stuff
+.firebase/**
+
 # local env files
 .env.local
 .env.*.local
